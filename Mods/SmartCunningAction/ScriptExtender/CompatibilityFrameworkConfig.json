@@ -1,0 +1,92 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "Comment": "Rogue Level 2",
+      "UUID": "35863719-e935-4757-a9f3-eb38a8cd8cb7",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["Smart_CunningAction"]
+        }
+      ]
+    },
+    {
+      "UUID": "35863719-e935-4757-a9f3-eb38a8cd8cb7",
+      "Selectors": [
+        {
+          "Action": "Remove",
+          "Function": "AddSpells",
+          "UUID": "2dc120ff-903b-494b-8dc8-38721098ce38"
+        }
+      ]
+    },
+    {
+      "Comment": "GloomStalker Level 3",
+      "UUID": "38240899-8a43-43e4-927c-9dd0d2fa0a50",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["Smart_DreadAmbusher"]
+        }
+      ]
+    },
+    {
+      "UUID": "38240899-8a43-43e4-927c-9dd0d2fa0a50",
+      "Selectors": [
+        {
+          "Action": "Remove",
+          "Function": "AddSpells",
+          "UUID": "5ea6abd7-3e02-4e8d-9220-8a400e0019a4"
+        }
+      ]
+    },
+    {
+      "UUID": "38240899-8a43-43e4-927c-9dd0d2fa0a50",
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "2635fa07-0d34-41ae-8001-db21327a0092"
+          }
+        }
+      ]
+    },
+    {
+      "Comment": "Shadow Level 3",
+      "UUID": "077e6458-3b93-4820-88a7-bd7c9babbeae",
+      "Strings": [
+        {
+          "Action": "Insert",
+          "Type": "PassivesAdded",
+          "Strings": ["Smart_ShadowArts"]
+        }
+      ]
+    },
+    {
+      "UUID": "077e6458-3b93-4820-88a7-bd7c9babbeae",
+      "Selectors": [
+        {
+          "Action": "Remove",
+          "Function": "AddSpells",
+          "UUID": "e050fe59-a8f0-4c03-a7f4-569ac747c80e"
+        }
+      ]
+    },
+    {
+      "UUID": "077e6458-3b93-4820-88a7-bd7c9babbeae",
+      "Selectors": [
+        {
+          "Action": "Insert",
+          "Function": "AddSpells",
+          "Params": {
+            "Guid": "ab4eac34-fc02-44f6-a46a-f3390ecc5d7a"
+          }
+        }
+      ]
+    }
+  ]
+}

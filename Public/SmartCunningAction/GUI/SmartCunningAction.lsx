@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="IconUVList"> 
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Hide_BonusAction_Cost"/> 1
+                    <attribute id="U1" type="float" value="0.0"/> L
+                    <attribute id="U2" type="float" value="0.25"/> R
+                    <attribute id="V1" type="float" value="0.0"/> T
+                    <attribute id="V2" type="float" value="0.25"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Disengage_BonusAction_Cost"/> 2
+                    <attribute id="U1" type="float" value="0.25"/> L
+                    <attribute id="U2" type="float" value="0.5"/> R
+                    <attribute id="V1" type="float" value="0.0"/> T
+                    <attribute id="V2" type="float" value="0.25"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Hide_Action_Cost"/> 3 
+                    <attribute id="U1" type="float" value="0.0"/> L
+                    <attribute id="U2" type="float" value="0.25"/> R
+                    <attribute id="V1" type="float" value="0.25"/> T
+                    <attribute id="V2" type="float" value="0.5"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Disengage_Action_Cost"/> 4
+                    <attribute id="U1" type="float" value="0.25"/> L
+                    <attribute id="U2" type="float" value="0.5"/> R
+                    <attribute id="V1" type="float" value="0.25"/> T
+                    <attribute id="V2" type="float" value="0.5"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Dash_BonusAction_Cost"/> 1
+                    <attribute id="U1" type="float" value="0.5"/> L
+                    <attribute id="U2" type="float" value="0.75"/> R
+                    <attribute id="V1" type="float" value="0.0"/> T
+                    <attribute id="V2" type="float" value="0.25"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Passive_Smart_CunningAction"/> 2
+                    <attribute id="U1" type="float" value="0.75"/> L
+                    <attribute id="U2" type="float" value="1.0"/> R
+                    <attribute id="V1" type="float" value="0.0"/> T
+                    <attribute id="V2" type="float" value="0.25"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Dash_Action_Cost"/> 3
+                    <attribute id="U1" type="float" value="0.5"/> L
+                    <attribute id="U2" type="float" value="0.75"/> R
+                    <attribute id="V1" type="float" value="0.25"/> T
+                    <attribute id="V2" type="float" value="0.5"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Hide_Cancel"/> 4
+                    <attribute id="U1" type="float" value="0.75"/> L
+                    <attribute id="U2" type="float" value="1.0"/> R
+                    <attribute id="V1" type="float" value="0.25"/> T
+                    <attribute id="V2" type="float" value="0.5"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="U1" type="float" value="0.0"/> L
+                    <attribute id="U2" type="float" value="0.25"/> R
+                    <attribute id="V1" type="float" value="0.5"/> T
+                    <attribute id="V2" type="float" value="0.75"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="U1" type="float" value="0.25"/> L
+                    <attribute id="U2" type="float" value="0.5"/> R
+                    <attribute id="V1" type="float" value="0.5"/> T
+                    <attribute id="V2" type="float" value="0.75"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="U1" type="float" value="0.0"/> L
+                    <attribute id="U2" type="float" value="0.25"/> R
+                    <attribute id="V1" type="float" value="0.75"/> T
+                    <attribute id="V2" type="float" value="1.0"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="U1" type="float" value="0.25"/> L
+                    <attribute id="U2" type="float" value="0.5"/> R
+                    <attribute id="V1" type="float" value="0.75"/> T
+                    <attribute id="V2" type="float" value="1.0"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="U1" type="float" value="0.5"/> L
+                    <attribute id="U2" type="float" value="0.75"/> R
+                    <attribute id="V1" type="float" value="0.5"/> T
+                    <attribute id="V2" type="float" value="0.75"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="U1" type="float" value="0.75"/> L
+                    <attribute id="U2" type="float" value="1.0"/> R
+                    <attribute id="V1" type="float" value="0.0"/> T
+                    <attribute id="V2" type="float" value="0.75"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="U1" type="float" value="0.5"/> L
+                    <attribute id="U2" type="float" value="0.75"/> R
+                    <attribute id="V1" type="float" value="0.75"/> T
+                    <attribute id="V2" type="float" value="1.0"/> B
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="U1" type="float" value="0.75"/> L
+                    <attribute id="U2" type="float" value="1.0"/> R
+                    <attribute id="V1" type="float" value="0.75"/> T
+                    <attribute id="V2" type="float" value="1.0"/> B
+                </node>
+			</children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+		<node id="root">
+			<children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="64"/>
+                    <attribute id="Width" type="int32" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/Icons_SmartCunningAction.dds"/>
+                    <attribute id="UUID" type="FixedString" value="d54b9eb7-ee1a-4b89-9dbb-8b968465e6f0"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="256"/>
+                    <attribute id="Width" type="int32" value="256"/>
+                </node>
+            </children>
+        </node>
+    </region>		  				
+</save>

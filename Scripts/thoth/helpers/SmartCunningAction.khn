@@ -1,0 +1,16 @@
+function SmartCunningActionCheck()
+    return SpellId('Shout_Dash') | SpellId('Shout_Disengage') | SpellId('Shout_Hide')
+end
+
+function SmartCostAction()
+    return ~HasActionResource('BonusActionPoint',1,0,false,false,context.Source) & HasActionResource('ActionPoint',1,0,false,false,context.Source)
+end
+
+function SmartCostBonusAction()
+    return HasActionResource('BonusActionPoint',1,0,false,false,context.Source) | (~HasActionResource('BonusActionPoint',1,0,false,false,context.Source) & ~HasActionResource('ActionPoint',1,0,false,false,context.Source))
+end
+
+function SmartCancelSneaking()
+    result = HasStatus('SNEAKING',context.Source)
+    return ConditionResult(result.Result)
+end

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h4eade6f1ge39cg45fcga721ga3c83cb7673d" version="1">Cunning Action</content>
+	<content contentuid="hc5824256gd7dfg4b7dg94bdgaba682da3f7c" version="1">Your quick thinking and agility allow you to move and act quickly. You may spend a &lt;LSTag Tooltip="Bonus_Action"&gt;bonus action&lt;/LSTag&gt; instead of an &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; to cast &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Dash&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_Disengage"&gt;Disengage&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_Hide"&gt;Hide&lt;/LSTag&gt;.</content>
+	<content contentuid="h348fdabdg646bg4c6ag8c4eg003945e62948" version="1">Dread Ambusher: Hide</content>
+	<content contentuid="haf54a597gc3fag4eafg91d4gf6f56b3c7724" version="1">Camouflage and hiding is your speciality. You may spend a &lt;LSTag Tooltip="Bonus_Action"&gt;bonus action&lt;/LSTag&gt; instead of an &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; to cast &lt;LSTag Type="Spell" Tooltip="Shout_Hide"&gt;Hide&lt;/LSTag&gt;.</content>
+	<content contentuid="h5f2db252g7999g4a59gacf7gcfaa281fa619" version="1">Shadow Arts: Hide</content>
+	<content contentuid="hc5dae0ecg0e41g4157gbeb9g5a0256f0fd93" version="1">You've mastered the arts of stealth and subterfuge. You may spend a &lt;LSTag Tooltip="Bonus_Action"&gt;bonus action&lt;/LSTag&gt; instead of an &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; to cast &lt;LSTag Type="Spell" Tooltip="Shout_Hide"&gt;Hide&lt;/LSTag&gt;.</content>
+</contentList>

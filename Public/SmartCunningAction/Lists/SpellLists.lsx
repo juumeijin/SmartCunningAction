@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="5" revision="0" build="503"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Gloom Stalker level 3 (SmartCunningAction)"/>
+                    <attribute id="Spells" type="LSString" value="Shout_UmbralCloak;Shout_DisguiseSelf"/>
+                    <attribute id="UUID" type="guid" value="2635fa07-0d34-41ae-8001-db21327a0092"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Shadow Monk level 3 (SmartCunningAction)"/>
+                    <attribute id="Spells" type="LSString" value="Shout_PassWithoutTrace_Monk;Target_Darkness_Monk;Target_Darkvision_Monk;Target_MinorIllusion;Target_Silence_Monk"/>
+                    <attribute id="UUID" type="guid" value="ab4eac34-fc02-44f6-a46a-f3390ecc5d7a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
